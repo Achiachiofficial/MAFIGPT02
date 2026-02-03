@@ -147,6 +147,14 @@ python mafigpt02.py
 ​This tool is for educational purposes only. The author is not responsible for any misuse.
 
 
+## 🤖
+  
+<p align="center">  
+  <img src="mafilogo.gif" alt="MAFI LOGO" width="200"/>  
+</p>   
+
+---------------------
+
 
 
 
