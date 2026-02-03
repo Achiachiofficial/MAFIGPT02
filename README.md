@@ -78,7 +78,7 @@ pkg install git python -y
 
 # Clone the repository
 
-git clone [https://github.com/Achiachiofficial/MAFIGPT02.git]
+git clone https://github.com/Achiachiofficial/MAFIGPT02.git
 
 
 
